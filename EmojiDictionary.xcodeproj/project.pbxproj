@@ -14,7 +14,7 @@
 		933BD757208FA9E8001D2EE4 /* Emoji.swift in Sources */ = {isa = PBXBuildFile; fileRef = 933BD756208FA9E8001D2EE4 /* Emoji.swift */; };
 		933BD759208FAAC1001D2EE4 /* EmojiTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 933BD758208FAAC1001D2EE4 /* EmojiTableViewController.swift */; };
 		933BD75B208FB549001D2EE4 /* EmojiTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 933BD75A208FB549001D2EE4 /* EmojiTableViewCell.swift */; };
-		939B060520A512DE00E899FA /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 939B060420A512DE00E899FA /* Readme.md */; };
+		939B060720A515CF00E899FA /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 939B060620A515CF00E899FA /* Readme.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +27,7 @@
 		933BD756208FA9E8001D2EE4 /* Emoji.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Emoji.swift; sourceTree = "<group>"; };
 		933BD758208FAAC1001D2EE4 /* EmojiTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiTableViewController.swift; sourceTree = "<group>"; };
 		933BD75A208FB549001D2EE4 /* EmojiTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiTableViewCell.swift; sourceTree = "<group>"; };
-		939B060420A512DE00E899FA /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
+		939B060620A515CF00E899FA /* Readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,7 +44,7 @@
 		933BD738208FA75D001D2EE4 = {
 			isa = PBXGroup;
 			children = (
-				939B060420A512DE00E899FA /* Readme.md */,
+				939B060620A515CF00E899FA /* Readme.md */,
 				933BD743208FA75D001D2EE4 /* EmojiDictionary */,
 				933BD742208FA75D001D2EE4 /* Products */,
 			);
@@ -133,7 +133,7 @@
 			files = (
 				933BD74F208FA75F001D2EE4 /* LaunchScreen.storyboard in Resources */,
 				933BD74C208FA75F001D2EE4 /* Assets.xcassets in Resources */,
-				939B060520A512DE00E899FA /* Readme.md in Resources */,
+				939B060720A515CF00E899FA /* Readme.md in Resources */,
 				933BD74A208FA75D001D2EE4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
